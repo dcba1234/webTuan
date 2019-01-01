@@ -39,7 +39,8 @@
     position: fixed;
     width: 100%;
     height: 33px;
-    background: #132befd1
+    background: #132befd1;
+    top: 150px;
 }
 .menuleft {
     width: 200px; 
@@ -141,11 +142,10 @@ a{
     border-radius: 3px 5px 3px 3px;
 }
 
-.phantrong{
-    width: 100%;
-    height:1200px;
-    margin-top:30px;
-
+.phantrong {
+    width: 73%;
+    height: 1200px;
+    margin-top: 30px;
 }
 .sanpham {
     width:100%;
@@ -161,10 +161,10 @@ a{
 }
 
 .spr{
-    width:75%;
+    width:100%;
     height:100%;
     
-    float:right;
+    
 }
 .spr p {
      margin: 0;
@@ -239,15 +239,14 @@ a{
 }
 
 .sp2l {
-    width: 25%;
-    height:150px;
-    float:left;
-    background:pink;
-   
+    width: 50% !important;
+    height: 150px;
+    float: left;
+    background: pink;
 }
 
 .sp2r {
-    width: 50%;
+    width: 50%!important;
     height:150px;
     float:right;
     background:black;

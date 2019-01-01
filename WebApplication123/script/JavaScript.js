@@ -6,8 +6,11 @@
     }
 });
 var slideIndex = 1;
+
 $(document).ready(function () {
     showSlides(slideIndex);
+    
+
 });
 
 

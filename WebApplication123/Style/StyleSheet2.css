@@ -127,12 +127,11 @@
     font-size: 11px;
 }
 .thanbai3 {
-
     background: pink;
     margin-top: 64px;
-    width: 57%;
-    height: 950px;
-    margin-left: 140px;
+    width: 36%;
+    height: auto;
+    margin-left: 188px;
 }
 
 
@@ -370,6 +369,7 @@ img {
     padding-top: 15px;
     /*padding-bottom: 25px;*/
     width: 1000px;
+    margin-top: 100px;
 }
 
 .saloncontent {
@@ -490,5 +490,7 @@ img {
         color: #ee9405 !important;
         font-weight: bold !important;
     }
-
+.main{
+    height:auto;
+}
 

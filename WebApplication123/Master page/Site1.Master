@@ -5,10 +5,13 @@
 <html>
 <head runat="server">
     <title></title>
+    
     <link href="../Style/StyleSheet1.css" rel="stylesheet" />
     <link href="../Style/StyleSheet2.css" rel="stylesheet" />
     <script src="../script/jquery-3.3.1.min.js"></script>
+    <script src="../script/JavaScript1.js"></script>
     <script src="../script/JavaScript.js"></script>
+    
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
@@ -44,10 +47,12 @@
                 <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
                
 
-            </asp:ContentPlaceHolder>
+                </asp:ContentPlaceHolder>
             </div>
             
 
+           
+          </div>
            <div class="newfooter">
     <div class="footer02">
         <div class="footer02content">
@@ -122,11 +127,10 @@
             <p>Banxehoi.com không bán xe trực tiếp, quý khách mua xe xin vui lòng liên hệ trực tiếp người đăng tin.</p>
             <div class="clear"></div>
         </div>
-       
+       
+
             </div>
          </div>
-          </div>
-           
         <div class="menu">
                 <div class="menuu">
                     <ul class="menubar">

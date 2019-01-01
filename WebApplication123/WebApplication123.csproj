@@ -87,6 +87,7 @@
     <Content Include="img\tintuc4.png" />
     <Content Include="img\topbannermrminhautom-13d1.gif" />
     <Content Include="script\JavaScript.js" />
+    <Content Include="script\JavaScript1.js" />
     <Content Include="script\jquery-3.3.1.min.js" />
     <Content Include="Style\StyleSheet1.css" />
     <Content Include="Style\StyleSheet2.css" />

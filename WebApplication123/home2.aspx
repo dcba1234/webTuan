@@ -46,14 +46,34 @@
                             <p> Bộ ba xe VinFast, Kia Morning, Kia Cerato, Hyundai Santa Fe hay Toyota Camry thế...</p>
                         </div>
                     </div>
+                    
+                </div>
+                <div class="sanpham2r">
                     <div>
-                        <a href="#"> <img src="img/oto7.png" /></a>
+                        <a href="#"><img src="img/tintuc2.jpg" /> </a>
                         <div class="mieuta">
-                            <h4>Hiện tại, Rolls-Royce Phantom VIII vẫn chưa xuất hiện tại Việt Nam nhưng nó đã có mặt tại Campuchia.</h4>
-                            <p>25/2/2018</p>
-                            <p>Nếu lần đầu thuê xe ô tô tự lái, bạn nên “giắt lưng” những kinh...</p>
+                             <h4>Soi những “điểm đen” của thị trường ô tô Việt Nam năm 2018</h4>
+                            <p> 17/12/2018</p>
+                            <p>Năm 2018 ghi nhận nhiều sự biến chuyển trên thị trường ô tô. Bên cạnh...</p>
                         </div>
                     </div>
+                    <div>
+                        <a href="#"> <img src="img/tintuc3.jpg" /></a>
+                        <div class="mieuta">
+                             <h4>Thaco sẽ lắp ráp xe BMW tại Việt Nam?</h4>
+                            <p> 23/12/2018</p>
+                            <p> Thông tin Thaco sẽ lắp ra xe BMW tại Việt Nam trong tương lai gần...</p>
+                        </div>
+                    </div>
+                    <div>
+                        <a href="#"> <img src="img/tintuc4.png" /></a>
+                        <div class="mieuta">
+                             <h4>Loạt ô tô mới 'nóng bỏng tay' khách Việt chờ mở bán nhất năm 2019</h4>
+                            <p> 21/12/2018</p>
+                            <p> Bộ ba xe VinFast, Kia Morning, Kia Cerato, Hyundai Santa Fe hay Toyota Camry thế...</p>
+                        </div>
+                    </div>
+                    
                 </div>
 
                 </div>
