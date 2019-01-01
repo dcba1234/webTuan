@@ -1,0 +1,149 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication123.Master_page.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="../Style/StyleSheet1.css" rel="stylesheet" />
+    <link href="../Style/StyleSheet2.css" rel="stylesheet" />
+    <script src="../script/jquery-3.3.1.min.js"></script>
+    <script src="../script/JavaScript.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+   
+        <div class="main">
+            <div class="mid-right2">
+                <div class="title2">Hỗ trợ vay mua xe trả góp</div>
+                <div class="title3">Đăng kí mua xe</div>
+                <div class="title4">Tư vấn bảo hiểm ô tô</div>
+                <div class="title5">Có thể bạn quan tâm</div>
+                <div class="sanpham2">
+                    <div class="sp2l"></div>
+                    <div class="sp2r"></div>
+                </div>
+               
+            </div>
+            <div class="head">
+
+                <div class="headd">
+                    <div class="headeleft">
+                        <img src="../img/noel2017.png" />
+                    </div>
+                    <div class="headeright">
+                        <img src="../img/topbannermrminhautom-13d1.gif" />
+                    </div>
+                </div>
+                
+            </div>
+            
+            <div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+               
+
+            </asp:ContentPlaceHolder>
+            </div>
+            
+
+           <div class="newfooter">
+    <div class="footer02">
+        <div class="footer02content">
+            <div class="allitem">
+                <div class="item">
+                    <div class="title-footer">
+                        Hỗ trợ khách hàng
+                    </div>
+                    <div class="deline w154"></div>
+                    <ul>
+                        <li><a href="#">Quy định, chính sách</a></li>
+                        <li><a href="#">Điều khoản hoạt động salon</a></li>
+                        
+                        <li><a href="#">Trợ giúp</a></li>
+                        <li><a href="#">Liên hệ</a></li>
+                    </ul>
+                </div>
+                <div class="item">
+                    <div class="title-footer">
+                        Về chúng tôi
+                    </div>
+                    <div class="deline w154"></div>
+                    <ul>
+                        <li><a href="#>Giới thiệu</a></li>
+                        <li><a href="#">Quy chế hoạt động</a></li>
+                        <li><a href="#">Tuyển dụng</a></li>
+                        <li><a href="#">Sitemap</a></li>
+                    </ul>
+                </div>
+                <div class="item w199">
+                    <div class="title-footer">
+                        Tin tức bán xe hơi
+                    </div>
+                    <div class="deline w154"></div>
+                    <ul>
+                        <li><a rel="#">Báo giá dịch vụ</a></li>
+
+                        <li><a href="#">Khuyến mại từ các hãng</a></li>
+                        <li><a href="#">Cải tiến & tính năng mới</a></li>
+                    </ul>
+                </div>
+                <div class="item">
+                    <div class="title-footer">
+                        Liên kết
+                    </div>
+                    <div class="deline w154"></div>
+                    <ul>
+                        <li><a class="facebook" rel="nofollow" target="_blank" title="Facebook" href="https://www.facebook.com/pages/Banxehoicom/1510014629249357?ref=ts&amp;fref=ts">Facebook</a></li>
+                        <li><a class="google" rel="nofollow" target="_blank" title="Google +" href="https://plus.google.com/u/0/+Banxehoi/posts">Google + </a></li>
+                        <li><a class="youtube" rel="nofollow" target="_blank" title="Youtube" href="https://www.youtube.com/channel/UCJb7d6f9QpJEqXxbhteciDw">Youtube</a></li>
+                        <li><a class="partner" rel="nofollow" target="_blank" title="Đối tác" href="/member/doi-tac">Partners</a></li>
+                    </ul>
+                </div>
+               
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="deline w1000"></div>
+        <div class="infomation">
+            <h2 class="name">CÔNG TY CỔ PHẦN NEXTGEN VIỆT NAM</h2>
+            <p>Copyright © 2014 - 2017 Banxehoi.com - Nextgenvietnam.com</p>
+            <p>
+                <span class="phone-footer">0904.573.739</span> <span class="email">hotro@banxehoi.com</span>
+                
+               
+            </p>
+            <p>Địa chỉ trụ sở chính (địa chỉ xuất hóa đơn): Số 6 đường Tôn Thất Thuyết, Phường Dịch Vọng Hậu, Quận Cầu Giấy, TP. Hà Nội</p>
+            <p>Giấy chứng nhận ĐKDN số 0106774081 cấp bởi Phòng ĐKKD Hà Nội ngày 11/02/2015</p>
+            <p>Giấy phép ICP số 978/GP-TTĐT do Sở Thông tin và Truyền thông Hà Nội cấp ngày 14/4/2015</p>
+            <p>Chịu trách nhiệm nội dung: Ông Nguyễn Anh Tuấn</p>
+            <p>Toàn bộ quy chế, quy định giao dịch chung được đăng tải trên website áp dụng từ ngày 11/5/2018</p>
+            <p>Banxehoi.com không bán xe trực tiếp, quý khách mua xe xin vui lòng liên hệ trực tiếp người đăng tin.</p>
+            <div class="clear"></div>
+        </div>
+       
+            </div>
+         </div>
+          </div>
+           
+        <div class="menu">
+                <div class="menuu">
+                    <ul class="menubar">
+                      <li><a href="home.aspx">Home</a></li>
+                      <li><a href="#news">Mua bán oto</a></li>
+                      <li><a href="home4.aspx">Sa lông oto</a></li>
+                      <li><a href="home2.aspx">Tin tức</a></li>
+                      <li><a href="#about">Gía xe oto</a></li>
+                      <li><a href="#about">Đánh giá xe</a></li>
+                      <li><a href="#about">So sánh xe</a></li>
+                      <li><a href="#about">Kinh nghiệm</a></li>
+                      <li><a href="#about">Tư vấn xe</a></li>
+                      <li><a href="#about">oto</a></li>
+                      
+                    </ul>
+                </div>
+                
+            </div>
+     </body>
+</html>
