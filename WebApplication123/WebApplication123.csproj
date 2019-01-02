@@ -71,6 +71,10 @@
     <Content Include="home2.aspx" />
     <Content Include="home3.aspx" />
     <Content Include="home4.aspx" />
+    <Content Include="home5.aspx" />
+    <Content Include="home6.aspx" />
+    <Content Include="home7.aspx" />
+    <Content Include="home8.aspx" />
     <Content Include="img\noel2017.png" />
     <Content Include="img\oto.jpg" />
     <Content Include="img\oto2.jpg" />
@@ -82,9 +86,12 @@
     <Content Include="img\oto8.jpg" />
     <Content Include="img\oto9.jpg" />
     <Content Include="img\tin tuc1.jpg" />
+    <Content Include="img\tintuc10.jpg" />
     <Content Include="img\tintuc2.jpg" />
     <Content Include="img\tintuc3.jpg" />
     <Content Include="img\tintuc4.png" />
+    <Content Include="img\tintuc8.jpg" />
+    <Content Include="img\tintuc9.jpg" />
     <Content Include="img\topbannermrminhautom-13d1.gif" />
     <Content Include="script\JavaScript.js" />
     <Content Include="script\JavaScript1.js" />
@@ -123,6 +130,34 @@
     </Compile>
     <Compile Include="home4.aspx.designer.cs">
       <DependentUpon>home4.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="home5.aspx.cs">
+      <DependentUpon>home5.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="home5.aspx.designer.cs">
+      <DependentUpon>home5.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="home6.aspx.cs">
+      <DependentUpon>home6.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="home6.aspx.designer.cs">
+      <DependentUpon>home6.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="home7.aspx.cs">
+      <DependentUpon>home7.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="home7.aspx.designer.cs">
+      <DependentUpon>home7.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="home8.aspx.cs">
+      <DependentUpon>home8.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="home8.aspx.designer.cs">
+      <DependentUpon>home8.aspx</DependentUpon>
     </Compile>
     <Compile Include="Master page\Site1.Master.cs">
       <DependentUpon>Site1.Master</DependentUpon>

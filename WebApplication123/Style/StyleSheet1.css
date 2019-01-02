@@ -143,7 +143,7 @@ a{
 }
 
 .phantrong {
-    width: 73%;
+    width: 100%;
     height: 1200px;
     margin-top: 30px;
 }
@@ -234,22 +234,22 @@ a{
     width:100%;
     height:200px;
     margin-bottom: 12px;
-    background:purple;
+   
 
 }
 
 .sp2l {
-    width: 50% !important;
-    height: 150px;
+    width: 30% !important;
+    height: 140px;
     float: left;
-    background: pink;
+    
 }
 
 .sp2r {
-    width: 50%!important;
-    height:150px;
+    width: 65%!important;
+    height:400px;
     float:right;
-    background:black;
+    
 }
 .newfooter {
     width: 100%;

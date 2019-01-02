@@ -25,8 +25,30 @@
                 <div class="title4">Tư vấn bảo hiểm ô tô</div>
                 <div class="title5">Có thể bạn quan tâm</div>
                 <div class="sanpham2">
-                    <div class="sp2l"></div>
-                    <div class="sp2r"></div>
+                    <div class="sp2l"> 
+                        <a href="home3.aspx"><img src="img/oto.jpg" /></a> </div>
+                    <div class="sp2r">
+                        <a class="titlea" href="#"> Toyotavio 2019 giảm giá lớn,tặng full phụ kiện,bảo hiểm - Gọi ngay: Anh Tuấn- 013457685 để được giá tốt hơn</a>
+                        <p>Gía: 246 Triệu</p>
+                            </div>
+                     <div class="sp2l"> 
+                         <a href="home3.aspx"><img src="img/oto.jpg" /></a> </div>
+                    <div class="sp2r">
+                        <a class="titlea" href="#"> Toyotavio 2019 giảm giá lớn,tặng full phụ kiện,bảo hiểm - Gọi ngay: Anh Tuấn- 013457685 để được giá tốt hơn</a>
+                        <p>Gía: 246 Triệu</p>
+                            </div>
+                     <div class="sp2l"> 
+                         <a href="home3.aspx"><img src="img/oto.jpg" /></a> </div>
+                    <div class="sp2r">
+                        <a class="titlea" href="#"> Toyotavio 2019 giảm giá lớn,tặng full phụ kiện,bảo hiểm - Gọi ngay: Anh Tuấn- 013457685 để được giá tốt hơn</a>
+                        <p>Gía: 246 Triệu</p>
+                            </div>
+                     <div class="sp2l"> 
+                         <a href="home3.aspx"><img src="img/oto.jpg" /></a> </div>
+                    <div class="sp2r">
+                        <a class="titlea" href="#"> Toyotavio 2019 giảm giá lớn,tặng full phụ kiện,bảo hiểm - Gọi ngay: Anh Tuấn- 013457685 để được giá tốt hơn</a>
+                        <p>Gía: 246 Triệu</p>
+                            </div>
                 </div>
                
             </div>
@@ -138,12 +160,12 @@
                       <li><a href="#news">Mua bán oto</a></li>
                       <li><a href="home4.aspx">Sa lông oto</a></li>
                       <li><a href="home2.aspx">Tin tức</a></li>
-                      <li><a href="#about">Gía xe oto</a></li>
-                      <li><a href="#about">Đánh giá xe</a></li>
+                      <li><a href="home5.aspx">Gía xe oto</a></li>
+                      <li><a href="home8.aspx">Báo giá</a></li>
                       <li><a href="#about">So sánh xe</a></li>
                       <li><a href="#about">Kinh nghiệm</a></li>
                       <li><a href="#about">Tư vấn xe</a></li>
-                      <li><a href="#about">oto</a></li>
+                      <li><a href="home7.aspx">Video oto</a></li>
                       
                     </ul>
                 </div>

@@ -494,3 +494,338 @@ img {
     height:auto;
 }
 
+.sp2l img{
+    width:100px;
+}
+.sp2r .titlea {
+    font-size: 13px !important;
+    margin-left: 0px;
+    color: black !important;
+}
+
+/*------------------------home5-------------------*/
+.newsmain {
+    margin-left: 153px;
+    margin-top: 51px;
+}
+.content-newsdetail {
+    float: left;
+    width: 680px;
+    margin-top: 40px;
+    margin-left: 0px;
+
+}
+.newsmain h1 {
+    line-height: 31px;
+    border-bottom: 1px solid #1260ab;
+    text-transform: none !important;
+}
+.daude, .daude a {
+    font-size: 17px !important;
+    font-family: 'OswaldVNF', Tahoma !important;
+    color: #1260ab !important;
+    text-transform: uppercase !important;
+    text-decoration: none !important;
+    font-weight: normal !important;
+    padding-bottom: 2px;
+}
+.content-newsmain {
+    color: #222;
+    font: 14px/18px 'Arial';
+    overflow: hidden;
+    width: 680px;
+}
+    .content-newsmain h2 {
+        text-align: left;
+        text-rendering: geometricPrecision;
+        font: 17px/18px 'Open Sans' !important;
+        color: #222 !important;
+        margin-top: 15px;
+        overflow: hidden;
+        width: 680px;
+        padding: 10px 0;
+    }
+    .content-newsmain p {
+        margin: 2% 0;
+        line-height: 20px;
+        text-align: left;
+        text-rendering: geometricPrecision;
+    }
+    .content-newsmain .chuy {
+        font: 17px/18px 'Open Sans' !important;
+        color: #555 !important;
+    }
+        .content-newsmain .chuy a {
+            color: #1260ab !important;
+            text-decoration: underline !important;
+        }
+  .logo .brand-grid{
+    width: 680px;
+    display: inline-block;
+    margin-bottom: 12px;
+}
+.logo .brand-grid li {
+    float: left;
+    width: 153px;
+    height: 114px;
+    border: 1px solid #dfdfdf;
+    margin-right: 20px;
+    margin-top: 20px;
+    background-color: #fff;
+    position: relative;
+}
+    .logo .brand-grid li img {
+        position: absolute;
+        left: 9%;
+        top: 13%;
+        vertical-align: middle;
+    }
+    /*--------------------home6--------------*/
+.newsmain {
+   
+}
+.newsmain .date-newsmain {
+    color: #222;
+    font: italic 13px 'Open Sans';
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.content-newsmain h2 {
+    line-height: 20px;
+    text-align: left;
+    text-rendering: geometricPrecision;
+    color: #222;
+    font: 18px/23px 'Arial';
+    overflow: hidden;
+    width: 680px;
+    padding: 10px 0;
+}
+.content-newsmain p {
+    margin: 2% 0;
+    line-height: 20px;
+    text-align: left;
+    text-rendering: geometricPrecision;
+}
+.content-newsmain em {
+    font-style: italic !important;
+    font-weight: inherit;
+}
+.content-newsmain strong {
+    font-weight: bold !important;
+    font-style: inherit;
+}
+.divresponsive table {
+    margin-bottom: 2px;
+    border-spacing: 0px !important;
+    border-collapse: collapse !important;
+}
+.giaxe .highlight {
+    background-color: #ebebeb;
+    background-color: #ebebeb !important;
+    font-weight: bold !important;
+    background: #ebebeb !important;
+}
+    .giaxe .highlight td {
+        color: #333;
+        height: 38px !important;
+        line-height: 18px;
+        border-bottom: 1px solid #dedede;
+        font-weight: bold;
+        text-align: center;
+        font: 14px/18px 'Open Sans';
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+
+/*-------------------home7-----------------*/
+.videopage {
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+}
+    .videopage .newvideo {
+        width: 1000px;
+        float: left;
+        display: inline-block;
+    }
+.videoleft {
+    width: 680px;
+    float: left;
+    display: inline-block;
+    margin-top: 81px;
+    margin-left: -38px;
+}
+    .videoleft .tit {
+        line-height: 30px;
+        
+        border-bottom: 1px solid #1260ab;
+    }
+.oswaldlarge-title {
+    font-size: 17px !important;
+    font-family: 'OswaldVNF', Tahoma !important;
+    color: #1260ab !important;
+    text-transform: uppercase !important;
+    text-decoration: none !important;
+    font-weight: normal !important;
+    padding-bottom: 2px;
+}
+.videoleft .title {
+    width: 680px;
+    float: left;
+    min-height: 30px;
+    border-bottom: 1px solid #e8e8e8;
+    padding-top: 15px;
+}
+.title a {
+    font: 17px 'OswaldVNF', Tahoma;
+    color: #1260ab;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.videoleft .shortdescription {
+    width: 100%;
+    font: 17px/21px 'Open Sans';
+    color: #222;
+    float: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e8e8e8;
+}
+.videoleft .videocontent {
+    width: 680px;
+  
+    float: left;
+    margin-top: 15px;
+    position: relative;
+}
+
+/*----------------home8-----------------*/
+.baogiaright {
+    width: 760px;
+    float: left;
+    height: auto;
+    margin-left: 18px;
+}
+    .baogiaright .content-baogia {
+        width: 100%;
+        height: auto;
+        float: left;
+        display: inline-block;
+    }
+.content-baogia .bgtinrao {
+    width: 100%;
+    float: left;
+}
+.content-baogia .tabitem {
+    float: left;
+    border-bottom: 1px solid #1260ab;
+    width: 100%;
+    display: inline-block;
+    margin-top:-20px;
+}
+    
+    .content-baogia .tabitem li .active {
+        float: left;
+        height: 32px;
+        border-top-left-radius: 4px;
+        border-top-right-radius: 4px;
+        color: #fff;
+        font: 17px/32px 'OswaldVNF';
+        text-transform: uppercase;
+        padding-left: 25px;
+        padding-right: 25px;
+        margin-right: 10px;
+        text-align: center;
+        border-left: 1px solid #1260ab;
+        border-top: 1px solid #1260ab;
+        border-right: 1px solid #1260ab;
+        cursor: pointer;
+    }
+    
+    .content-baogia .tabitem li active2 {
+        float: left;
+        height: 32px;
+        border-top-left-radius: 4px;
+        border-top-right-radius: 4px;
+        background-color: #fff;
+        font: 17px/32px 'OswaldVNF';
+        color: #1260ab;
+        text-transform: uppercase;
+        padding-left: 25px;
+        padding-right: 25px;
+        margin-right: 10px;
+        text-align: center;
+        border-left: 1px solid #1260ab;
+        border-top: 1px solid #1260ab;
+        border-right: 1px solid #1260ab;
+        cursor: pointer;
+    }
+.content-baogia .container {
+    float: left;
+    width: 100%;
+    display: inline-block;
+    height: auto;
+}
+img {
+    border: 0;
+}
+.muagoitin-v3 {
+    width: 100%;
+    float: left;
+    display: inline-block;
+}
+    .muagoitin-v3 .unitgt {
+        width: 100%;
+        text-align: right;
+        font: 15px 'OswaldVNF';
+        color: #777;
+        display: inline-block;
+        margin-top: 15px;
+        text-transform: uppercase;
+    }
+    .muagoitin-v3 .tblmgt {
+        width: 100%;
+        border: 1px solid #dadada;
+        float: left;
+        margin-top: 15px;
+        font: 14px 'Open Sans';
+        color: #222;
+        border-spacing: 0px !important;
+        border-collapse: collapse !important;
+    }
+        .muagoitin-v3 .tblmgt th {
+            height: 153px !important;
+            padding-bottom: 0 !important;
+            vertical-align: top !important;
+        }
+muagoitin-v3 .item-head {
+    width: 100%;
+    height: 100%;
+}
+.muagoitin-v3 .item-head .borderbottom {
+    height: 60px;
+    width: 100%;
+    border-bottom: 1px solid #dedede;
+    margin-bottom: 18px;
+}
+.muagoitin-v3 .mgt-note {
+    float: left;
+    width: 100%;
+    margin-top: 20px;
+    font: italic 14px 'Open Sans';
+    color: #444;
+    padding-bottom: 15px;
+}
+.muagoitin-v3 .note-text {
+    width: 54px;
+    float: left;
+    clear: both;
+    color: #e40f11;
+    font-weight: bold;
+    font-style: italic;
+}
+.muagoitin-v3 .notes {
+    width: 100%;
+}
+
